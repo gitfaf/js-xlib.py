@@ -1,6 +1,8 @@
-# js-xlib.py
+# js-xlib.py @v2.0.0
 
 Python xlib library for JavaScript: xlib.py
+
+Note: Please use v2+
 
 ## Usage
 

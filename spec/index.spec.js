@@ -6,4 +6,9 @@ describe('index', () => {
             expect(lib.zip).toBeDefined()
         })
     })
+    describe('xzip', () => {
+        it('is a function', () => {
+            expect(lib.xzip).toBeDefined()
+        })
+    })
 })

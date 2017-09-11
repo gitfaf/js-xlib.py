@@ -4,7 +4,7 @@
   },
   "name": "js-xlib.py",
   "description": "Python xlib library for JavaScript: xlib.py",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
   "dependencies": {},
   "scripts": {
