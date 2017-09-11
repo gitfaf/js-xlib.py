@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "name": "js-xlib.py",
+  "description": "Python xlib library for JavaScript: xlib.py",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/js-xlib.py.git"
+  },
+  "keywords": [
+    "javascript",
+    "python",
+    "library",
+    "python-library",
+    "zip",
+    "python-lib-for-javascript",
+    "browser",
+    "not-node"
+  ],
+  "author": "Git Faf <git.faf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfaf/js-xlib.py/issues"
+  },
+  "homepage": "https://github.com/gitfaf/js-xlib.py#readme"
+}
