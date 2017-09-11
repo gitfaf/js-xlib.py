@@ -10,4 +10,6 @@ function* zip(listA, listB) {
     }
 }
 
-module.exports = zip
+module.exports = {
+    zip
+}

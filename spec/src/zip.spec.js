@@ -1,4 +1,4 @@
-const zip = require('./zip')
+const { zip } = require('../../src/zip')
 
 describe('zip', () => {
     it('zips [0, 1, 2, 3] and ["a", "b", "c", "d"] successfully', () => {
